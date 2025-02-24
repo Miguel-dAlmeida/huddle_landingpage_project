@@ -3,7 +3,7 @@
   <img src="./src/images/gif_final_page.gif" alt="Gif do resultado final da página" >
 </div>
 
-### [Veja a página clicando aqui!](https://miguel-dalmeida.github.io/agencia-xyz-project/) 
+### [Veja a página clicando aqui!](https://miguel-dalmeida.github.io/huddle_landingpage_project/) 
 
 ## __Sumário__
 
