@@ -1,6 +1,6 @@
 # Quest HTML + CSS Avançado | Desafio do Frontend Mentor
 <div>
-  <img src="./src/images/gif_final_page.gif" alt="Gif do resultado final da página" >
+  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/huddle_landingpage_project/main/src/images/gif_final_page.gif" alt="Gif do resultado final da página" >
 </div>
 
 ### [Veja a página clicando aqui!](https://miguel-dalmeida.github.io/huddle_landingpage_project/) 
@@ -121,8 +121,8 @@ Um grande abraço e até o próximo projeto. __Bora codar!__
         target="_blank"></a>
   </div>
 
-<div>
-  <img src="https://i.imgur.com/kwfpJJn.gif" alt="Imagem representando união e parceria" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/huddle_landingpage_project/main/src/images/closingImage.gif" alt="Imagem representando união e parceria" width="80%">
 </div>
 
 
